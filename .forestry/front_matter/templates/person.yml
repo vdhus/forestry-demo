@@ -2,6 +2,12 @@
 label: person
 hide_body: false
 fields:
+- type: boolean
+  name: national
+  label: National
+  description: test
+  hidden: false
+  default: false
 - type: text
   name: title
   label: Name
